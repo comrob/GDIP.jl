@@ -1,4 +1,4 @@
-module GDIP
+module GeneralizedDubinsIntervalProblem
 
 #!/usr/bin/env julia
 
