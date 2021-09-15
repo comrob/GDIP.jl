@@ -1,4 +1,4 @@
-# GDIP.jl - Generalized Dubins Interval Problem
+# GeneralizedDubinsIntervalProblem.jl
 Julia wrappers for GDIP library written in C++. The provided optimal solution of the GDIP wchich enables to find a tight lower-bound for the Dubins Traveling Salesman Problem with Neighborhoods (DTSPN). This work was presented at RSS 2018 conference. Please, cite the journal version.
 
 ```
