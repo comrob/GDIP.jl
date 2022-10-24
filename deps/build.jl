@@ -1,6 +1,6 @@
 using Libdl
 
-const gdip_version = "0.1.0"
+const gdip_version = "0.1.1"
 download("https://github.com/comrob/gdip/archive/refs/tags/v$(gdip_version).tar.gz", "v$(gdip_version).tar.gz")
 run(`tar xvf v$(gdip_version).tar.gz`)
 
